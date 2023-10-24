@@ -10,7 +10,7 @@ This internship allowed me to gain practical experience in data analysis, machin
 
 Here's an overview of the tasks and projects I worked on during my internship:
 
-1. **Iris Flower Classification** -  Aalyzing the features of the flowers based on the petal and sepal sizes and classifiying them in their respectuve species
+1. [**Iris Flower Classification**](https://github.com/SUKHMAN-SINGH-1612/OIBSIP/tree/main/Task%201%20-%20Iris%20Flower%20Classification) -  Aalyzing the features of the flowers based on the petal and sepal sizes and classifiying them in their respectuve species
 
 Each task folder contains Jupyter notebooks, data files, and relevant documentation.
 
