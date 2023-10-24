@@ -1,7 +1,5 @@
 # Oasis Infobyte Data Science Internship
 
-## Repository Description
-
 Welcome to my data science internship repository at Oasis Infobyte! This repository contains a collection of Jupyter notebooks, data files, and other resources related to my data science internship projects. During my time at Oasis Infobyte, I worked on various data science tasks and projects, and this repository serves as a documentation of my work and the solutions I've developed.
 
 This internship allowed me to gain practical experience in data analysis, machine learning, and data visualization. I hope the contents of this repository can be helpful and insightful for those interested in data science or looking to understand the kind of work I've done during my internship.
