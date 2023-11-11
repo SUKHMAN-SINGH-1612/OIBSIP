@@ -9,6 +9,7 @@ This internship allowed me to gain practical experience in data analysis, machin
 Here's an overview of the tasks and projects I worked on during my internship:
 
 1. [**Iris Flower Classification**](https://github.com/SUKHMAN-SINGH-1612/OIBSIP/tree/main/Task%201%20-%20Iris%20Flower%20Classification) -  Analyzing the features of the flowers based on the petal and sepal sizes and classifiying them in their respective species
+2. [**Car Price Prediction**](https://github.com/SUKHMAN-SINGH-1612/OIBSIP/tree/main/Task-2%20Car%20Price%20Prediction) -  Analyzing the car features like to predict the selling price of the car
 
 Each task folder contains Jupyter notebooks, data files, and relevant documentation.
 
